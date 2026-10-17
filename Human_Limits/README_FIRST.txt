@@ -1,25 +1,47 @@
-Human Limits v0.2.9 — Recurring Depression Breakdown Test Build (Build 42.21)
+Human Limits
 
-INSTALL
-1. Close Project Zomboid.
-2. Back up the existing Human_Limits folder, then replace it with this folder.
-3. Confirm paths are Human_Limits/42/mod.info and Human_Limits/42/media/...
-4. Check console.txt for Human Limits v0.2.9 load messages.
+A Project Zomboid moodle overhaul.
 
-PRESERVED BASELINE
-- Panic heart-attack system (same gameplay logic).
-- Nicotine-withdrawal-scaled sleep interruption and wake thought.
-- Repeatable fatigue blackout system.
-- Depression breakdown movement lock, item-drop attempt, messages, and 10 real-second duration.
+Human Limits aims to make the moodle system matter. Psychological and physiological conditions should have meaningful consequences, forcing survivors to take their condition seriously rather than simply ignoring their moodles.
 
-DEPRESSION TEST
-- Uses only vanilla unhappiness; no separate depression mod or trait check.
-- Threshold: unhappiness >= 70/100.
-- First breakdown after one continuous in-game hour above threshold.
-- After each episode ends, the one-hour timer resets. If unhappiness remains >=70, another breakdown occurs after the next qualifying hour.
-- If unhappiness falls below 70, the current countdown resets.
-- Random natural thoughts appear between episodes, more frequently during the final quarter of the countdown.
-- Episode duration remains 10 real-world seconds.
+Development Roadmap
 
-TESTING
-The recurring timer and ambient thoughts need in-game confirmation. Check console.txt for [HumanLimits][Depression] messages. Crouching is best-effort and was not confirmed to work; movement lock and 10-second duration were confirmed in the previous build.
+This repository is used to share development progress, planned features, and release updates.
+
+Current Systems
+
+Panic and panic-related consequences
+
+Nicotine withdrawal and sleep interruption
+
+Critical sleep deprivation and blackouts
+
+Depression and breakdown mechanics
+
+In Development
+
+Torn Muscle: A custom exertion-tracking system intended to introduce injury risks from strenuous activity.
+
+Planned
+
+Further moodle overhauls
+
+Balance improvements and testing
+
+Future feature ideas
+
+Feature statuses and plans may change during development. Listing a feature does not guarantee its release.
+
+Official Download
+
+Human Limits is distributed through the official Steam Workshop listing.
+
+Steam Workshop: Pending Steam Listing
+
+Please use the official listing for downloads and updates.
+
+Copyright and Permissions
+
+Human Limits and its original creative content are protected by applicable copyright law. No license is granted through this repository to redistribute, modify, or reuse the mod's code or assets.
+
+This repository is intended for public roadmap and development information. All rights reserved unless permission is explicitly granted by the author.
