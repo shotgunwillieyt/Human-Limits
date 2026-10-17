@@ -36,7 +36,7 @@ Official Download
 
 Human Limits is distributed through the official Steam Workshop listing.
 
-Steam Workshop: Pending steam workshop listing
+Steam Workshop: (https://steamcommunity.com/sharedfiles/filedetails/?id=3821236478)
 
 Please use the official listing for downloads and updates.
 
