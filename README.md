@@ -38,6 +38,8 @@ Human Limits is distributed through the official Steam Workshop listing.
 
 Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3821236478
 
+Discord for bug reports: https://discord.gg/HEAszacwDe
+
 Please use the official listing for downloads and updates.
 
 Copyright and Permissions
